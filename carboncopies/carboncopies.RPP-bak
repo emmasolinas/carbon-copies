@@ -1,0 +1,620 @@
+<REAPER_PROJECT 0.1 "5.50c/x64" 1580344758
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 1
+  ENVATTACH 1
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0
+  MAXPROJLEN 0 600
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 0 5 0 30 0
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 848
+  ZOOM 1.18051248663922 502 0
+  VZOOMEX 6
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 0
+  DEFPITCHMODE 589824
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 840 840
+  SELECTION2 840 840
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    ACT 0
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    ACT 0
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  MARKER 1 300 "5 minutes" 0 0 1 R
+  MARKER 2 600 "10 minutes" 0 16816640 1 R
+  MARKER 3 900 "15 minutes" 0 26804225 1 R
+  MARKER 4 1200 "20 minutes" 0 16834798 1 R
+  <PROJBAY
+  >
+  <TRACK {783F94B6-25A0-B34B-81F5-031DD5392F9A}
+    NAME "suoni d'interno"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {783F94B6-25A0-B34B-81F5-031DD5392F9A}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 87.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.481981 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F4545B28-3F43-41B6-A6D2-B4E8A0DA844C}
+      IID 4
+      NAME "interno da lontano (online-audio-converter.com).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B9FADB6A-A76A-4759-A0E1-E6FF7AD7D0D8}
+      <SOURCE WAVE
+        FILE "C:\Users\emmys\Desktop\carbon copies tapes\interno da lontano (online-audio-converter.com).wav"
+      >
+    >
+    <ITEM
+      POSITION 87.5
+      SNAPOFFS 0
+      LENGTH 49.88265306122449
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 1.576588 0 1 0 0
+      FADEOUT 1 0.390936 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {EF4F5211-9299-484D-AF2F-75E0C62CFA2B}
+      IID 6
+      NAME "interno da lontano (online-audio-converter.com).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 90
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {96FE1DCE-FE09-48A1-9327-2AC6021CA10B}
+      <SOURCE WAVE
+        FILE "C:\Users\emmys\Desktop\carbon copies tapes\interno da lontano (online-audio-converter.com).wav"
+      >
+    >
+    <ITEM
+      POSITION 112
+      SNAPOFFS 0
+      LENGTH 0
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5B84BC08-B104-4922-B0BC-4BB3F082B0B9}
+      IID 1
+      NAME "interno da lontano.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {73B772DA-365E-48AF-8563-0F6CFD58ED43}
+      <SOURCE WAVE
+        FILE "C:\Users\emmys\Desktop\carboncopies registrazioni\interno da lontano.m4a"
+      >
+    >
+    <ITEM
+      POSITION 112
+      SNAPOFFS 0
+      LENGTH 0
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E9983CE7-671C-410D-90FE-3C8F6BF52EF3}
+      IID 2
+      NAME "interno da lontano.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FC4D5192-5144-4F2A-BB3C-A87E96EF81F1}
+      <SOURCE WAVE
+        FILE "C:\Users\emmys\Desktop\carboncopies registrazioni\interno da lontano.m4a"
+      >
+    >
+    <ITEM
+      POSITION 137.38265306122449
+      SNAPOFFS 0
+      LENGTH 12.11734693877551
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.415131 0 1 0 0
+      FADEOUT 1 0.138626 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {22683A9A-077B-400A-8CCC-D06310337BBD}
+      IID 9
+      NAME "interna (online-audio-converter.com).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.61734693877551
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {45B5EAE4-B894-44EB-9033-42A7FC68B98E}
+      <SOURCE WAVE
+        FILE "C:\Users\emmys\Desktop\carbon copies tapes\interna (online-audio-converter.com).wav"
+      >
+    >
+    <ITEM
+      POSITION 149.5
+      SNAPOFFS 0
+      LENGTH 118.43331065759628
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.130063 0 1 0 0
+      FADEOUT 1 0.319665 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F1AFF68B-830A-4407-BD60-4C27A19C8742}
+      IID 18
+      NAME "interna (online-audio-converter.com).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 16.73469387755102
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {90792C68-227E-427D-A8E7-B40BD898DEDE}
+      <SOURCE WAVE
+        FILE "C:\Users\emmys\Desktop\carbon copies tapes\interna (online-audio-converter.com).wav"
+      >
+    >
+    <ITEM
+      POSITION 267.93331065759628
+      SNAPOFFS 0
+      LENGTH 5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.366688 0 1 0 0
+      FADEOUT 1 0.254303 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7F6DE016-C20D-4D6C-A03A-65C69747A280}
+      IID 11
+      NAME "tv (online-audio-converter.com).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 32
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {93173243-6CA9-440F-8028-A5087E653D62}
+      <SOURCE WAVE
+        FILE "C:\Users\emmys\Desktop\carbon copies tapes\tv (online-audio-converter.com).wav"
+      >
+    >
+    <ITEM
+      POSITION 272.93331065759628
+      SNAPOFFS 0
+      LENGTH 40.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.386346 0 1 0 0
+      FADEOUT 1 3.561758 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B5378978-9B27-418D-AB5A-F89418146500}
+      IID 13
+      NAME "tv (online-audio-converter.com).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 39.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F7E3407B-7E96-4A88-9437-334DB55EBD3F}
+      <SOURCE WAVE
+        FILE "C:\Users\emmys\Desktop\carbon copies tapes\tv (online-audio-converter.com).wav"
+      >
+    >
+    <ITEM
+      POSITION 313.5
+      SNAPOFFS 0
+      LENGTH 23.97189351382883
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 1.122433 0 1 0 0
+      FADEOUT 1 0.439846 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5FBD8CCF-682E-4B25-A85E-938EDC7D4B7C}
+      IID 16
+      NAME "surfing con aggancio per l_acqua (online-audio-converter.com).wav"
+      VOLPAN 0.978261 0 1 -1
+      SOFFS 4.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {630BF750-AF2A-4097-826B-1AB445704EDD}
+      <SOURCE WAVE
+        FILE "C:\Users\emmys\Desktop\carbon copies tapes\surfing con aggancio per l_acqua (online-audio-converter.com).wav"
+      >
+    >
+    <ITEM
+      POSITION 337.5
+      SNAPOFFS 0
+      LENGTH 14.63806800246766
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 1.126489 0 1 0 0
+      FADEOUT 1.1 0.810134 1.138068 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {3C7CC197-CFF1-42CF-B542-DE6F8F398460}
+      IID 23
+      NAME "spazzolino e doccia (online-audio-converter.com).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 5.36193199753245
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FC4CC694-2AA8-402F-8DD1-7228AF878A77}
+      <SOURCE WAVE
+        FILE "C:\Users\emmys\Desktop\carbon copies tapes\spazzolino e doccia (online-audio-converter.com).wav"
+      >
+    >
+    <ITEM
+      POSITION 351
+      SNAPOFFS 0
+      LENGTH 102.53507093891244
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 1.178889 1.138068 1 1 0
+      FADEOUT 1.1 0.313575 0.535071 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {CE27B7B8-4E51-49EF-B0FD-8BB3C4B57A49}
+      IID 28
+      NAME "spazzolino e doccia (online-audio-converter.com)-glued-01.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FE605DB2-CF75-491C-B690-1AC1B26DC424}
+      <SOURCE WAVE
+        FILE "spazzolino e doccia (online-audio-converter.com)-glued-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 453
+      SNAPOFFS 0
+      LENGTH 28.86666666666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.356765 0.535071 1 1 0
+      FADEOUT 1.1 0.01 3.78072 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {01AC5043-3954-41BF-BA7A-14A86227C8B9}
+      IID 34
+      NAME "lavandino acqua (online-audio-converter.com).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 25
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EFA5F050-D0B4-4458-9122-049F9789D0A0}
+      <SOURCE WAVE
+        FILE "C:\Users\emmys\Desktop\carbon copies tapes\lavandino acqua (online-audio-converter.com).wav"
+      >
+    >
+    <ITEM
+      POSITION 478.08594656271617
+      SNAPOFFS 0
+      LENGTH 72.41405343728383
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 3.78072 1 1 0
+      FADEOUT 1.1 0.32243 2.5 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {76947F11-1B82-4B05-BDDD-F86D4B6B5670}
+      IID 30
+      NAME "spazzolino e doccia (online-audio-converter.com)-glued-01.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 170.08594656271617
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7A0F2980-1EFB-4202-99F7-5FC4AFB9191A}
+      <SOURCE WAVE
+        FILE "spazzolino e doccia (online-audio-converter.com)-glued-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 548
+      SNAPOFFS 0
+      LENGTH 12
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.426851 2.5 1 1 0
+      FADEOUT 1.1 0.517242 2.893333 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {63F2D8AF-C362-47CB-9145-6EB9C814760C}
+      IID 41
+      NAME "spazzolino e doccia (online-audio-converter.com)-glued-01.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 282.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {88F56941-88ED-4C29-8EB0-54B33F8B739E}
+      <SOURCE WAVE
+        FILE "spazzolino e doccia (online-audio-converter.com)-glued-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 557.10666666666668
+      SNAPOFFS 0
+      LENGTH 38.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.654594 2.893333 1 1 0
+      FADEOUT 1.1 0.01 3.606667 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {7F16CA8B-6D23-41F3-A59C-CC105FDD447B}
+      IID 43
+      NAME "spazzolino e doccia (online-audio-converter.com)-glued-01.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 324.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DB4AB625-D378-4CED-9472-F248B22DEE64}
+      <SOURCE WAVE
+        FILE "spazzolino e doccia (online-audio-converter.com)-glued-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 592
+      SNAPOFFS 0
+      LENGTH 45.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 3.606667 1 1 0
+      FADEOUT 1.1 0.01 2.393333 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {99969A1C-69F9-4E73-8B77-B10DBC342D17}
+      IID 46
+      NAME "spazzolino e doccia (online-audio-converter.com)-glued-01.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 365
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1A9B767C-0DF7-47BE-A38E-CB0EC116839C}
+      <SOURCE WAVE
+        FILE "spazzolino e doccia (online-audio-converter.com)-glued-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 635.10666666666668
+      SNAPOFFS 0
+      LENGTH 6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 2.393333 1 1 0
+      FADEOUT 1.1 0.01 1.106667 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {B4B8F0C6-B595-41FA-B680-8C3A2E777EB0}
+      IID 48
+      NAME "spazzolino e doccia (online-audio-converter.com)-glued-01.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 434
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CCB4DDD6-1394-41DA-94BA-0EFD20F70985}
+      <SOURCE WAVE
+        FILE "spazzolino e doccia (online-audio-converter.com)-glued-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 640
+      SNAPOFFS 0
+      LENGTH 78
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 1.106667 1 1 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {DD02FC6D-CBC7-4837-B943-1D054ADBA82E}
+      IID 76
+      NAME "spazzolino e doccia (online-audio-converter.com).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 594
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {73BE8963-437E-4800-8B69-B2CFE24EA5E9}
+      <SOURCE WAVE
+        FILE "C:\Users\emmys\Desktop\carbon copies tapes\spazzolino e doccia (online-audio-converter.com).wav"
+      >
+    >
+    <ITEM
+      POSITION 718.12530612244927
+      SNAPOFFS 0
+      LENGTH 13.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 2.816834 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9212B2F2-C9AF-4A0E-856A-09F49139D13F}
+      IID 55
+      NAME "spazzolino e doccia (online-audio-converter.com)-glued-01.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 609
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BAE67981-4DC4-4A6B-AF04-6FE4F90707C4}
+      <SOURCE WAVE
+        FILE "spazzolino e doccia (online-audio-converter.com)-glued-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 731.62530612244927
+      SNAPOFFS 0
+      LENGTH 28.5001
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 3.6685 0 1 0 0
+      FADEOUT 1.1 0.135948 2.0001 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {C1393E90-1998-46E4-B66E-10E9C0BFCF22}
+      IID 58
+      NAME "luce (online-audio-converter.com).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.4999
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {31D6F756-2F94-4421-A935-32FD097C2C20}
+      <SOURCE WAVE
+        FILE "C:\Users\emmys\Desktop\carbon copies tapes\luce (online-audio-converter.com).wav"
+      >
+    >
+    <ITEM
+      POSITION 758.12530612244927
+      SNAPOFFS 0
+      LENGTH 28.34401360544211
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.120358 2.0001 1 1 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8C1247B9-452F-4837-9E3C-45E9B65CF5A1}
+      IID 62
+      NAME "luce (online-audio-converter.com)-glued.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C271497C-4F64-4DE2-B0EF-A4062A6C8E9A}
+      <SOURCE WAVE
+        FILE "luce (online-audio-converter.com)-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 786.46931972789139
+      SNAPOFFS 0
+      LENGTH 27.63734693877529
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 3.235952 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {036721E7-610B-49AB-8D05-CF5C4C5AFB61}
+      IID 66
+      NAME "phone e spazzola (online-audio-converter.com).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 84
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {578C2F75-173E-4514-A5AC-08D54D3AADC6}
+      <SOURCE WAVE
+        FILE "C:\Users\emmys\Desktop\carbon copies tapes\phone e spazzola (online-audio-converter.com).wav"
+      >
+    >
+    <ITEM
+      POSITION 814.10666666666668
+      SNAPOFFS 0
+      LENGTH 84
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 10.399276 0 1 0 0
+      FADEOUT 1 1.777338 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D9126459-E33A-4F68-9E24-C44839C864C8}
+      IID 63
+      NAME "phone e spazzola (online-audio-converter.com).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {440D7715-2476-4FDA-8A52-3FB57195F135}
+      <SOURCE WAVE
+        FILE "C:\Users\emmys\Desktop\carbon copies tapes\phone e spazzola (online-audio-converter.com).wav"
+      >
+    >
+  >
+>
